@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.73139029"
+     inkscape:cx="637.82635"
+     inkscape:cy="565.36162"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g20" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g16"
+       transform="translate(-58.965895,-39.431181)">
+      <g
+         id="g2"
+         transform="matrix(1,0,0,0.86854459,60.774665,153.68089)"
+         style="fill:#000000">
+        <g
+           id="g20"
+           transform="translate(1.0852657,-21.658308)">
+          <g
+             id="g21">
+            <ellipse
+               style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.309462;stroke-opacity:1"
+               id="path17"
+               cx="102.01462"
+               cy="51.304535"
+               rx="59.315739"
+               ry="35.391224" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.283901;stroke-opacity:1"
+               id="rect19"
+               width="3.9792933"
+               height="17.076742"
+               x="100.20584"
+               y="-5.7567749" />
+            <text
+               xml:space="preserve"
+               style="font-size:3.40681px;white-space:pre;inline-size:37.8497;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.283901;stroke-opacity:1"
+               x="62.494686"
+               y="85.077553"
+               id="text17"
+               transform="matrix(7.5989999,0,0,8.7491188,-402.72914,-675.37528)"><tspan
+                 x="62.494686"
+                 y="85.077553"
+                 id="tspan1">LOŠi</tspan></text>
+            <path
+               id="path19"
+               style="fill:#808080;stroke-width:0.283901"
+               d="m 162.78927,32.978281 c 0,11.961553 -19.13711,-0.416506 -60.59378,-0.416505 -41.456663,-1e-6 -59.870267,10.712034 -59.870268,-1.249519 0,-11.961552 18.413604,-27.905896 59.870268,-27.905896 41.45667,0 60.59378,17.610367 60.59378,29.57192 z"
+               sodipodi:nodetypes="sssss" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
