@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/html.html to edit this template
+-->
+<html>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <head>
+        <title>Portfolio</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div style="background-image: url(images/arch.png)">
+            <h1>Mans portfolio datorikā 2024./2025.m.g.</h1>
+            <p>Šajā mājaslapā ir apkopoti mani datorikas projekti, kurus veidoju šaajā mācību gadā. </p>
+            <ol>
+                <li style="font-size:300%;">
+                    <button onclick="myFunction('id1')" class="w3-btn w3-block w3-transparent w3-left-align">Darbs ar rastergrafiku</button>
+                    <div id="id1" class="w3-container w3-hide" >Darbs ar rastergrafiku <br> <img src="images/bilde.png"  alt="bilde1"></div>
+                </li>
+                <li> Darbs ar vektorgrafiku <br> <img src="images/logo.svg" alt="bilde2">  </li>
+                <li>3D modelēšana</li>
+                <li>Video montāža</li>
+                <li> Darbs ar Word</li>
+                <li>Darbs ar Excel</li>         
+            </ol>
+            <br>
+        </div>
+        <p><a href="otrais.html"> otrā lapa</a></p>
+    </body>
+    <script>
+    function myFunction(id) {
+     var x = document.getElementById(id);
+     if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+     } else { 
+      x.className = x.className.replace(" w3-show", "");
+     }
+    }
+    </script>
+</html>
