@@ -1,0 +1,13 @@
+body{
+    font-size: medium;
+    color:greenyellow;
+    background-color: black;
+    background-image: url(../images/arch.jpg);
+}
+h1{
+    font-size: 500%;
+    color:aqua;
+}
+p{
+    font-size: 120%;
+}
